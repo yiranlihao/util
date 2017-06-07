@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yiranlihao-util-dao" />
+        <module name="yiranlihao-util-entity" />
+        <module name="yiranlihao-util-service" />
+        <module name="yiranlihao-util-service-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yiranlihao-util" target="1.5" />
+      <module name="yiranlihao-util-dao" target="1.5" />
+      <module name="yiranlihao-util-entity" target="1.5" />
+      <module name="yiranlihao-util-service" target="1.5" />
+      <module name="yiranlihao-util-service-impl" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

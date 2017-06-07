@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yiranlihao-util.iml" filepath="$PROJECT_DIR$/yiranlihao-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiranlihao-util-dao/yiranlihao-util-dao.iml" filepath="$PROJECT_DIR$/yiranlihao-util-dao/yiranlihao-util-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiranlihao-util-entity/yiranlihao-util-entity.iml" filepath="$PROJECT_DIR$/yiranlihao-util-entity/yiranlihao-util-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiranlihao-util-service/yiranlihao-util-service.iml" filepath="$PROJECT_DIR$/yiranlihao-util-service/yiranlihao-util-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yiranlihao-util-service-impl/yiranlihao-util-service-impl.iml" filepath="$PROJECT_DIR$/yiranlihao-util-service-impl/yiranlihao-util-service-impl.iml" />
+    </modules>
+  </component>
+</project>
